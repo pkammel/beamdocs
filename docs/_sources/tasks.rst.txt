@@ -1,5 +1,7 @@
 Tasks
 -----
 
+- `material and task spreadsheet <https://docs.google.com/spreadsheets/d/1BfT-HNVnU4A9VjI0teImNkK8thk8JEMz69KL3kK6pws/edit?gid=0#gid=0>`__
+
 Gantt
 -----

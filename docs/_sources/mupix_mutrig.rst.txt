@@ -1,5 +1,5 @@
-MuPix and MuTrig information from Marius
-----------------------------------------
+MuPix and MuTrig information
+----------------------------
 
 - `MuTrig 1 <https://urldefense.com/v3/__https://iopscience.iop.org/article/10.1088/1748-0221/12/01/C01043__;!!K-Hz7m0Vt54!llAAUVhxjoQlAkt02Wn5ZkLcwiNAlpME5GkKBmgI210GcGByEt4vn0Z3hc77Anbxfu7r-GRuC81NBmUFdahxbA$>`__
 - `Mutrig 2 <https://validate.perfdrive.com/fb803c746e9148689b3984a31fccd902/...>`__
