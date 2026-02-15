@@ -1,0 +1,17 @@
+Specifications
+--------------
+
+Drawings and CAD
+~~~~~~~~~~~~~~~~
+
+- CAD from Thomas and Marius
+
+  - `version 1/7/2026 <https://www.dropbox.com/scl/fo/a3jmosmv9mpui2bgun1mn/AJ4sHBGlv9aOUPNysyXqNhM?rlkey=h5c70y684gcbi09hh3qbo4blw&st=yl4qqszw&dl=0>`__
+
+- | `MuPix CAD <https://drive.switch.ch/index.php/s/iiq51AStszema2N>`__
+  | pw protected, ask Marius or Peter if you need it
+
+- | `software repo <https://gitea.psi.ch/>`__
+  | Marius has to give permission
+
+- `PSM CAD repo <https://drive.google.com/drive/folders/19lXhFaQlkq7TYq_S48mExRGK5qKPJvb3?usp=drive_link>`__
