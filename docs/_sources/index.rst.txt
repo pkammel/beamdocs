@@ -1,13 +1,8 @@
-piE5 test beam preps
+BeamTeam docu
 ====================
 
 .. toctree::
    :maxdepth: 2
 
 	      
-   docs
-   overview
-   meetings
-   specifications
-   mupix_mutrig
-   tasks
+   piE5/index
