@@ -1,7 +1,0 @@
-Beam team page
---------------
-
-- `schedule 2026 <https://docs.google.com/spreadsheets/d/1YLsaqWFqT1CTJBt4uZZ-5CXwJzLaBagAT9SvBhPP5jg/edit?gid=0#gid=0>`__
-- `twiki <https://pioneer.npl.washington.edu/do/view/TWiki/PioneerBeamTeam>`__
-  
-
