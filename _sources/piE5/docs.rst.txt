@@ -1,0 +1,6 @@
+BVR57
+==============
+
+- `Beamtime request  <https://drive.google.com/file/d/1o9wLH_sqXYTzCDUwSUvsn17QRAKDmEiC/view?usp=drive_link>`_
+- `Progress Report with Beam Request Justification <https://drive.google.com/file/d/1hZ91iJhxqJPJOmHJJbeTXeUlw0JBl6HJ/view?usp=drive_link>`_
+- `Peter's BVR presentation <https://indico.psi.ch/event/18441/contributions/61426/attachments/32866/66264/piE5_Kammel_2026.pdf>`_

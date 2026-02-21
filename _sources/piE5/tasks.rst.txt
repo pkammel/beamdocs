@@ -1,0 +1,23 @@
+Tasks
+-----
+
+- `material and task spreadsheet <https://docs.google.com/spreadsheets/d/1BfT-HNVnU4A9VjI0teImNkK8thk8JEMz69KL3kK6pws/edit?gid=0#gid=0>`__
+
+Gantt
+-----
+
+.. image:: ../_static/gantt0.png
+   :alt: hardware
+   :width: 900px
+
+.. raw:: html
+
+   <div style="height: 30px;"></div>
+
+.. image:: ../_static/gantt1.png
+   :alt: software
+   :width: 900px
+
+
+
+	    
