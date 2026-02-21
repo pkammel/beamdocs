@@ -5,3 +5,19 @@ Tasks
 
 Gantt
 -----
+
+.. image:: ../_static/gantt0.png
+   :alt: hardware
+   :width: 900px
+
+.. raw:: html
+
+   <div style="height: 30px;"></div>
+
+.. image:: ../_static/gantt1.png
+   :alt: software
+   :width: 900px
+
+
+
+	    
